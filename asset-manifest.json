@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/budget-calculator/static/css/main.452d862f.css",
+    "main.js": "/budget-calculator/static/js/main.adbf4fce.js",
+    "static/js/787.393238a3.chunk.js": "/budget-calculator/static/js/787.393238a3.chunk.js",
+    "index.html": "/budget-calculator/index.html",
+    "main.452d862f.css.map": "/budget-calculator/static/css/main.452d862f.css.map",
+    "main.adbf4fce.js.map": "/budget-calculator/static/js/main.adbf4fce.js.map",
+    "787.393238a3.chunk.js.map": "/budget-calculator/static/js/787.393238a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.452d862f.css",
+    "static/js/main.adbf4fce.js"
+  ]
+}
